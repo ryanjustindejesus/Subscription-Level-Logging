@@ -1,10 +1,11 @@
 <h1>Subscription Level Logging</h1>
-<b>This tutorial outlines the configuration </b>
+<b>This tutorial outlines the configuration of additional resource groups and generating logs using Log Analytics Workspace</b>
 
 <h2>Environments and Technologies Used</h2>
 
 - <b>Microsoft Azure</b> 
-- <b>Description</b>
+- <b>Log Analytics Workspace</b>
+- <b>Resource Groups</b>
 
 <h2>Operating Systems</h2>
 
