@@ -1,5 +1,6 @@
 <h1>Subscription Level Logging</h1>
-<b>This tutorial outlines the configuration of additional resource groups and generating logs using Log Analytics Workspace</b>
+
+- <b>This tutorial outlines the configuration of additional resource groups and generating logs using Log Analytics Workspace</b>
 
 <h2>Environments and Technologies Used</h2>
 
